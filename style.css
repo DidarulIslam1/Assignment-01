@@ -1,0 +1,201 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.first-h1 {
+    line-height: 20px;
+    text-align: center;
+    color: white;
+    width: fit-content;
+    margin-left: 500px;
+}
+
+.first-p {
+    line-height: 20px;
+    text-align: center;
+    color: white;
+    width: fit-content;
+    margin-left: 500px;
+    text-align: left;
+}
+
+.donate-now {
+    text-decoration: none;
+    background-image: linear-gradient(orange, rgb(165, 30, 6));
+    color: white;
+    font-weight: 1000;
+    padding: 10px 40px;
+    border-radius: 5px;
+    margin-left: 500px;
+}
+
+.first-div {
+    background-image: url(images/donation6.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.first-sec {
+    display: inline;
+    margin: 0%;
+}
+
+#second-h1 {
+    text-align: center;
+}
+
+.amount {
+    background-color: antiquewhite;
+    color: black;
+    height: fit-content;
+    width: fit-content;
+    margin: 10px;
+}
+
+#amount {
+    display: flex;
+    margin-left: 270px;
+}
+
+#small-tag {
+    margin-left: 370px;
+    border-bottom: 1px solid black;
+}
+
+#donate-now {
+    text-decoration: none;
+    color: white;
+    font-weight: 500px;
+    background-image: linear-gradient(orange, rgb(165, 30, 6));
+    height: fit-content;
+    width: fit-content;
+    margin-left: 392px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+#middle {
+    text-align: center;
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+    padding-top: 50px;
+}
+
+#three-one {
+    background-color: rgb(217, 248, 248);
+    font-size: small;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 10px;
+    width: 25%;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+#three-two {
+    background-color: antiquewhite;
+    font-size: small;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 10px;
+    width: 25%;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+#three-three {
+    background-color: rgb(238, 209, 172);
+    font-size: small;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 10px;
+    width: 25%;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.second-sec {
+    display: flex;
+    margin-left: 90px;
+}
+
+.half-width {
+    width: 50%;
+    margin-left: 5%;
+    padding-bottom: 5%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#contribute {
+    text-decoration: none;
+    color: white;
+    font-weight: 500px;
+    background-image: linear-gradient(orange, rgb(165, 30, 6));
+    height: fit-content;
+    width: fit-content;
+    margin-left: 5px;
+    margin-top: 10px;
+    padding: 5px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+}
+
+.half-width img {
+    width: 80%;
+    padding-left: 3%;
+    padding-top: 5%;
+}
+
+.third-sec {
+    display: flex;
+    margin-top: 5%;
+}
+
+.last-div-p {
+    text-align: center;
+    width: fit-content;
+    height: fit-content;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: small;
+    padding-left: 240px;
+}
+
+#email {
+    background-color: rgb(221, 245, 245);
+    color: black;
+    border: 1px solid gray;
+    border-radius: 5px;
+    width: 150px;
+    height: fit-content;
+
+}
+
+#subscribe {
+    text-align: center;
+    color: white;
+    background-image: linear-gradient(orange, rgb(165, 30, 6));
+    border-radius: 5px;
+    width: 110px;
+    height: fit-content;
+}
+
+.email {
+    background-color: antiquewhite;
+    padding-top: 4%;
+    padding-left: 33%;
+    height: 80px;
+    width: 620px;
+    display: flex;
+    margin: 0%;
+
+}
+
+footer {
+    text-align: center;
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+}
+
+p {
+    color: white;
+}
