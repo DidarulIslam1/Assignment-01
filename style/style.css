@@ -18,6 +18,10 @@ main section {
     padding: 15px 35px;
 }
 
+.span {
+    color: #E55473;
+}
+
 /* ---------------------------------------------------------- */
 /* header styles */
 .header-div {
@@ -164,7 +168,6 @@ main section {
 .input {
     text-align: center;
     align-items: center;
-
 }
 
 .input input {
@@ -173,4 +176,30 @@ main section {
     padding: 17px 35px;
     border: 0;
     font-size: 15px;
+}
+
+/* ----------------------------------------------- */
+/* footer section styles */
+footer {
+    text-align: center;
+    background: #111010;
+    color: white;
+    margin-top: 100px;
+}
+
+.footer-div {
+    width: 50%;
+    margin: auto;
+}
+
+.footer-title {
+    margin-bottom: 0;
+    font-size: 48px;
+    font-weight: 800;
+}
+
+.footer-paragraph {
+    margin-top: 0;
+    font-size: 18px;
+    font-weight: 400;
 }
