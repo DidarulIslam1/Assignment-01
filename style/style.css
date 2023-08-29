@@ -98,3 +98,22 @@ main section {
 }
 
 /* -------------------------------------------- */
+/* hot deal section */
+.hot-deal-main {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.hot-deal-text {
+    max-width: 500px;
+    margin-left: 250px;
+    padding: 0px 10px 10px 10px;
+    /* margin-top: 0px; */
+    text-align: center;
+}
+
+.hot-deal-div .hot-deal-img {
+    width: 300px;
+    margin: 50px 400px 0px 10px;
+}
