@@ -22,7 +22,6 @@ main section {
     color: #E55473;
 }
 
-/* ---------------------------------------------------------- */
 /* header styles */
 .header-div {
     display: flex;
@@ -54,7 +53,7 @@ main section {
     margin: 50px 250px 0px 100px;
 }
 
-/* featured message & img styles */
+/* featured section styles */
 
 .featured-message {
     text-align: center;
@@ -103,16 +102,16 @@ main section {
 
 .featured-svg-div {
     display: flex;
+    text-align: center;
     justify-content: center;
-    gap: 50px;
+    gap: 135px;
     padding: 20px;
     background: #2727270D;
     width: 65%;
     margin: auto;
 }
 
-/* -------------------------------------------- */
-/* hot deal section */
+/* hot deal section styles */
 .hot-deal-main {
     display: flex;
     align-items: center;
@@ -135,7 +134,7 @@ main section {
     margin: 50px 400px 0px 10px;
 }
 
-/* ------------------------------------------------------------ */
+
 /* social media section styles */
 .social-media-main {
     text-align: center;
@@ -158,7 +157,6 @@ main section {
     width: 250px;
 }
 
-/* --------------------------------------------------------- */
 
 /* latest deal section styles */
 .latest-deal-main {
@@ -195,7 +193,7 @@ main section {
     font-size: 15px;
 }
 
-/* ----------------------------------------------- */
+
 /* footer section styles */
 footer {
     text-align: center;
