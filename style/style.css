@@ -25,8 +25,6 @@ main section {
     align-items: center;
     justify-content: space-between;
     background-color: #E554731A;
-    border: 2px solid yellow;
-
 }
 
 .header-description-div {
@@ -34,8 +32,6 @@ main section {
     margin-left: 250px;
     padding: 0px 10px 10px 10px;
     margin-top: 0px;
-    border: 2px solid blue;
-    /* margin: 200px 200px; */
 }
 
 .header-title {
@@ -50,33 +46,55 @@ main section {
 }
 
 .header-div .header-image {
-    border: 2px solid red;
     width: 400px;
     margin: 50px 250px 0px 100px;
 }
 
 /* featured message & img styles */
+
 .featured-message {
     text-align: center;
+    width: 30%;
+    margin: auto;
 }
 
-.featured-img-div {
-    text-align: center;
+.featured-title {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.featured-paragraph {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.featured-img-main {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin-top: 20px;
 }
 
 .featured-img {
-    border: 2px solid blue;
+    display: block;
     border-radius: 300px 300px 0px 0px;
-    background: rgba(167, 33, 98, 0.15);
-    width: 220px;
 }
 
-.featured-svg-div {
-    display: flex;
-    justify-content: center;
-    border: 2px solid black;
+.img-1 {
+    background-color: #A7216226;
+    width: 250px;
 }
 
-.featured-svg {
-    border: 2px solid yellow;
+.img-2 {
+    background-color: #0597A026;
+    width: 250px;
 }
+
+.img-3 {
+    background-color: #477D1126;
+    width: 250px;
+}
+
+/* -------------------------------------------- */
