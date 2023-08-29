@@ -117,3 +117,22 @@ main section {
     width: 300px;
     margin: 50px 400px 0px 10px;
 }
+
+/* ------------------------------------------------------------ */
+/* social media section styles */
+.social-media-main {
+    text-align: center;
+    width: 30%;
+    margin: auto;
+}
+
+.social-media-img {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.social-img {
+    width: 250px;
+}
